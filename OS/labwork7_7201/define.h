@@ -1,0 +1,7 @@
+#define CREATE_NEW_USER 1
+#define SHOW_USER_FRIENDS 2
+#define SUGGEST_NEW_FRIENDS 3
+#define ADD_NEW_FRIENDS 4
+#define EXIT_THE_PROGRAM 5
+
+/* 64070507231 -Modify 2023-9-25 -create define */
